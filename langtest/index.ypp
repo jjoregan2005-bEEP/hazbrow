@@ -1,0 +1,6 @@
+hazbrow
+obj "text" "text1" "Hello everybody welcome to my site!\n"
+flip
+halt:
+jmp "halt"
+EOF
