@@ -1,0 +1,11 @@
+hazbrow
+obj "text" "text1" "Hello and welcome to the Hazbrow main page!\n"
+obj "text" "text2" "\nIntrested in the true power of hazbrow? Look at this info!\n"
+obj "text" "text3" "\nHazbrow allows for YEEP-PLUS-PLUS code execution as if you we're running a file!\n"
+obj "text" "text4" "\nThis can be great for sites! ie a site that autoinstalls your projects into anyones pc without any hassle!\n"
+obj "text" "text5" "\nImportant Notes\n"
+obj "text" "text6" "\nHazbrow currently uses a modified version of YEEP-PLUS-PLUS version 1.0.0\n"
+flip
+halt:
+jmp "halt"
+EOF
