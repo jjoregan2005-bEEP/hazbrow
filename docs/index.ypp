@@ -6,6 +6,7 @@ obj "text" "text4" "\nThis can be great for sites! ie a site that autoinstalls y
 obj "text" "text5" "\nImportant Notes\n"
 obj "text" "text6" "\nHazbrow currently uses a modified version of YEEP-PLUS-PLUS version 1.0.0\n"
 flip
+print "this is running as a normal program would!"
 halt:
 jmp "halt"
 EOF
