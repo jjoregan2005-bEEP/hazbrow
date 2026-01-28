@@ -32,6 +32,11 @@ As of now you cannot change / manipulate objects but this is important for futur
 Operand 3 is the additional operand. it is a string.
 What it does changes with the type of object but for now text is the only type.
 For text Operand 3 is the contents of the text object.
+### hazbrow
+Arguably the most important tag, hazbrow has to be the first thing in the file,
+the reason you need it is to tell hazbrow that this site is supported.
+### flip
+Flip displays all of the text to the screen I recomend to put right before the halt loop.
 ## site components
 A site only needs two components a root directory and a index.ypp file.
 ```shell
